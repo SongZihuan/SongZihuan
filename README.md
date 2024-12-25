@@ -70,7 +70,7 @@
 
 ### 联系我的方式
 <div align="center">
-<a href="https://github.com/SongZihuan0" target="_blank">
+<a href="https://github.com/SongZihuan" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://twitter.com/Huan6363630" target="_blank">
@@ -80,14 +80,14 @@
 
 ### 统计
 #### 活动统计  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=SongZihuan0&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=SongZihuan&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 #### 语言统计  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SongZihuan0&hide_border=true&layout=compact" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SongZihuan&hide_border=true&layout=compact" align="center" /></div>  
 
 ### 访问统计  
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=SongZihuan0&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=SongZihuan&&style=flat-square" align="center" />
 </div>  
 
 ### 许可（License）
