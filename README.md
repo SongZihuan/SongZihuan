@@ -102,3 +102,8 @@ MIT License: [mit-license.org](https://mit-license.org/)
 感谢[Github](https://github.com/)等代码托管平台，以及众多的开源项目。他们的出现让我的工作变得轻松和简单。
 
 **特别鸣谢所有对我和我的团队的项目付出贡献的贡献人和贡献团体，本人由衷的感谢。**
+
+### 赞助
+我在"爱发电"平台以及注册账号，并进行创作者申请。若您喜欢我的项目，或者想进一步了解关于我的开源资讯，可以通过对我的赞助进行了解。
+
+点击链接前往我的“爱发电”地址：[afdian.com/a/SongZihuan](https://afdian.com/a/SongZihuan)
