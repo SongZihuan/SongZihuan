@@ -6,7 +6,7 @@
 我立志成为一名优秀的全栈工程师。
 我的开发梦想是完成自己的操作系统（OS）、编程语言（Programming Language）以及维系系统正常运行的组件工具（Tool）。
 
-你可以通过我主页的个人公开邮箱 [songzihuan@song-zh.com](mailto:songzihuan@song-zh.com) 联系我。
+你可以通过我主页的个人公开邮箱 [contact@song-zh.com](mailto://contact@song-zh.com) 联系我。
 
 同时，你可以浏览我的个人网站 [https://song-zh.com](https://song-zh.com) 。尽管有些时候他可能还未准备好提供服务。
 
@@ -94,7 +94,6 @@
 本人的项目在默认情况下使用[MIT LICENSE](./LICENSE)许可证发布。
 
 MIT License: [mit-license.org](https://mit-license.org/)
-
 
 ### 鸣谢
 感谢[profilinator.rishav.dev](https://profilinator.rishav.dev/)在我编辑profile时的支持。
