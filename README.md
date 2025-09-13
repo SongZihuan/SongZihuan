@@ -95,7 +95,7 @@
 </div> 
 
 <div align="center">
-🌐 更多信息可从 <a href="mit-license.org" target="_blank"> mit-license.org </a> 了解。
+🌐 更多信息可从 <a href="https://mit-license.org" target="_blank"> mit-license.org </a> 了解。
 </div> 
 
 ### <div align="center">致谢</div>  
