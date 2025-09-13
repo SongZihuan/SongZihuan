@@ -70,7 +70,9 @@
 
 <br>
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SongZihuan&hide_border=true&layout=compact" align="center" /></div>  
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SongZihuan&hide_border=true&layout=compact" align="center" />
+</div>  
 
 
 ### <div align="center">联系</div> 
@@ -131,3 +133,8 @@
     </ul>
 </div>
 
+<br>
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=songzihuan&base=0&abbreviated=true&label=PROFILE+VIEWS+%20&color=blueviolet" align="center" />
+</div>  
