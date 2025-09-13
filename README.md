@@ -1,18 +1,40 @@
 ## <div align="center">写代码的小桓Huan🔥</div>  
 
+<div align="center">
 🧑‍💻 宋子桓 (Song Zihuan)
+</div>
 
+<br>
+
+<div align="center">
 独立研究员兼开源软件工程师
+</div>
 
+<br>
+
+<div align="center">
 研究方向：系统编程、计算思维、开源哲学
+</div>
 
+<br>
+
+<div align="center">
 —
+</div>
+
+<br>
 
 📌 职业概述
 
 我是一名独立研究员兼开源软件工程师，致力于探索系统实现与计算思维的交汇。我的工作不仅强调代码的“如何实现”，更关注设计决策背后的“为什么”，将实际工程与概念深度联系起来。
 
+<br>
+
+<div align="center">
 —
+</div>
+
+<br>
 
 🎯 研究与工程兴趣
 
@@ -24,7 +46,13 @@
 
 技术交流：撰写深入探讨的文章，将实现细节与概念框架联系起来——面向重视理解而非捷径的工程师。
 
-——
+<br>
+
+<div align="center">
+—
+</div>
+
+<br>
 
 💬 理念
 
@@ -81,7 +109,17 @@
 <div align="center">
 ⛽ 你的支持，是我持续探索“从代码到思想”的小小燃料。
 </div>
+
 <br>
 
-- 通过关注[微信订阅号](#dingyuehao)进行赞助。
-- 其他方式待开通...
+<div align="center">
+    <ul>
+        <li>
+            通过关注 <a href="#dingyuehao">微信订阅号</a> 进行赞助。
+        </li>
+        <li>
+            其他方式待开通...
+        </li>
+    </ul>
+</div>
+
