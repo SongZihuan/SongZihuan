@@ -19,6 +19,30 @@
 <br>
 
 <div align="center">
+<a
+id="cy-effective-orcid-url"
+class="underline"
+    href="https://orcid.org/0009-0008-5167-1636"
+    target="orcid.widget"
+    rel="me noopener noreferrer"
+    style="vertical-align: top">
+    <img
+    src="https://orcid.org/sites/default/files/images/orcid_16x16.png"
+    style="width: 1em; margin-inline-start: 0.5em"
+    alt="ORCID iD icon"/>
+    https://orcid.org/0009-0008-5167-1636
+</a>
+</div>
+
+<br>
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=songzihuan&base=0&abbreviated=true&label=PROFILE+VIEWS+%20&color=blueviolet" align="center" />
+</div>  
+
+<br>
+
+<div align="center">
 —
 </div>
 
@@ -85,7 +109,7 @@
 
 📫身份邮箱：[songzihuan@song-zh.com](mailto://songzihuan@song-zh.com)
 
-📱微信订阅号：<a id="dingyuehao" href="https://mp.weixin.qq.com/s/XW9-nBImVxYkTEqyQb5IpA" target="_blank">写代码的小桓Huan</a>
+📱微信订阅号：<a id="dingyuehao" href="https://mp.weixin.qq.com/s/e2RNDW7T9WFdIohrQlTYow" target="_blank">写代码的小桓Huan</a>
 
 ❗提示
 
@@ -125,16 +149,29 @@
 <div align="center">
     <ul>
         <li>
-            通过关注 <a href="#dingyuehao">微信订阅号</a> 进行赞助。
+            通过微信关注 <a id="dingyuehao" href="https://mp.weixin.qq.com/s/e2RNDW7T9WFdIohrQlTYow" target="_blank">写代码的小桓Huan</a> 为我赞助。
         </li>
         <li>
-            其他方式待开通...
+            通过 <a href="https://afdian.com/a/songzihuan0630" target="_blank">爱发电</a> 为我赞助。
+        </li>
+         <li>
+            通过<a id="dingyuehao" href="https://ko-fi.com/songzihuan" target="_blank"> Ko-fi </a> 为我赞助。
         </li>
     </ul>
 </div>
 
 <br>
 
+### <div align="center"> Sponsored via USDT </div> 
+
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=songzihuan&base=0&abbreviated=true&label=PROFILE+VIEWS+%20&color=blueviolet" align="center" />
-</div>  
+⛽ If you are outside of China, you can try USDT for sponsorship.
+
+<br>
+
+⚠️ Only <b>TRC-20 network</b> is supported, other networks will result in fund loss!
+</div>
+
+<div align="center">
+Address: <code>TB7Sbh3PoqCThCGNvEm4vjGzK3S6DHEYqD</code> 
+</div>
