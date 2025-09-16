@@ -1,0 +1,93 @@
+CODE OF CONDUCT
+Copyright (c) 2025 宋子桓（Song Zihuan）
+
+By submitting a Pull Request (PR) or any form of contribution to this project,
+you agree to abide by the terms of this Code of Conduct.
+
+We are committed to providing a friendly, safe, and welcoming environment for all,
+regardless of background, identity, or experience level.
+
+---
+
+1. Expected Behavior
+--------------------
+- Be respectful, constructive, and professional in all communications.
+- Use inclusive language and avoid sarcasm, personal attacks, or demeaning remarks.
+- Respect differing viewpoints and experiences.
+- Gracefully accept constructive criticism.
+- Focus on what is best for the community and the project.
+- Show empathy and kindness toward other contributors.
+
+---
+
+2. Unacceptable Behavior
+------------------------
+Examples include, but are not limited to:
+- Harassment, intimidation, or discrimination based on gender, gender identity, 
+  sexual orientation, disability, physical appearance, body size, race, religion, 
+  nationality, or technical choices.
+- Deliberate misgendering, deadnaming, or use of unwelcome sexual attention.
+- Publishing others’ private information (e.g., physical or email address) without 
+  explicit permission.
+- Threats of violence, incitement of harm, or encouraging self-harm.
+- Disruptive behavior, trolling, or sustained negativity that detracts from productive 
+  collaboration.
+- Attempts to circumvent moderation decisions or project governance.
+
+---
+
+3. Reporting Violations
+-----------------------
+If you witness or experience behavior that violates this Code of Conduct, please report it:
+
+  Email: report@song-zh.com
+
+Reports may be submitted anonymously. All reports will be reviewed promptly and handled 
+confidentially by the project maintainers.
+
+In your report, please include:
+  - Your contact info (optional, if you want follow-up)
+  - Names/links of involved parties (if known)
+  - Description of the incident
+  - Screenshots, logs, or links (if available)
+
+---
+
+4. Enforcement Guidelines
+-------------------------
+Project maintainers will:
+  - Review all reports with seriousness and fairness.
+  - Protect reporter confidentiality to the extent possible.
+  - Take appropriate action, which may include:
+      • Warning the offender
+      • Editing or deleting inappropriate content
+      • Temporarily or permanently banning from project spaces
+      • Rejection or revert of contributions
+
+Decisions are final and not subject to public debate.
+
+---
+
+5. Scope
+--------
+This Code of Conduct applies to all project spaces, including:
+  - GitHub/GitLab issues, PRs, discussions, wikis
+  - Project mailing lists, forums, chat rooms (Discord, Slack, Gitter, etc.)
+  - In-person or virtual events associated with the project
+
+---
+
+6. Responsibility & Acknowledgement
+-----------------------------------
+By submitting a Pull Request (PR), Issue, Comment, or any contribution to this repository,
+you acknowledge that you have read, understood, and agreed to be bound by this Code of Conduct.
+
+Violations may result in rejection of contributions or removal from project spaces,
+without liability to the project, its maintainers, or hosting platforms.
+
+This document does not create a contractual relationship, but serves as a condition 
+of participation in the project’s collaborative spaces.
+
+---
+
+Thank you for helping to build a respectful and productive open source community.

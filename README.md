@@ -125,11 +125,29 @@ class="underline"
 ### <div align="center">许可</div>  
 
 <div align="center">
-🫱🏻‍🫲🏻 宋子桓的公开项目在默认情况下使用 <a href="./LICENSE" target="_blank"> MIT LICENSE </a> 开源许可证发布。
+🫱🏻‍🫲🏻 宋子桓的公开项目在默认情况下使用 <a href="./LICENSE" target="_blank"> MIT LICENSE </a> 开源许可证发布，除非项目根目录下 <code>LICENSE</code> 文件另行决定。
 </div> 
 
 <div align="center">
-🌐 更多信息可从 <a href="https://mit-license.org" target="_blank"> mit-license.org </a> 了解。
+🌐 更多关于 MIT LICENSE 的信息可从 <a href="https://mit-license.org" target="_blank"> mit-license.org </a> 了解。
+</div> 
+
+### <div align="center">法律</div> 
+
+<div align="center">
+⚖️ 宋子桓的公开项目在默认情况下需遵守 <a href="./LEGAL" target="_blank"> 法律约束 </a> ，除非项目根目录下 <code>LEGAL</code> 或 <code>LEGAL.md</code> 文件另行决定。
+</div> 
+
+### <div align="center">安全</div> 
+
+<div align="center">
+⛑️ 宋子桓的公开项目安全策略可参考 <a href="./SECURITY" target="_blank"> 安全文件 </a> ，除非项目根目录下 <code>SECURITY</code> 或 <code>SECURITY.md</code> 文件另行决定。
+</div> 
+
+### <div align="center">贡献者约定</div> 
+
+<div align="center">
+⛽ 宋子桓的公开项目贡献者均需遵守 <a href="./CODE_OF_CONDUCT" target="_blank"> 贡献者约定 </a> ，除非项目根目录下 <code>CODE_OF_CONDUCT</code> 或 <code>CODE_OF_CONDUCT.md</code> 文件另行决定。
 </div> 
 
 ### <div align="center">致谢</div>  

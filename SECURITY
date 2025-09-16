@@ -1,0 +1,69 @@
+SECURITY POLICY
+Copyright (c) 2025 宋子桓（Song Zihuan）
+
+We take the security of this project seriously. If you believe you have found a 
+security vulnerability, please report it to us responsibly.
+
+---
+
+1. Reporting a Vulnerability
+----------------------------
+Please do NOT open a public issue or pull request.
+
+Instead, send an email to:
+  security@song-zh.com
+
+Please include:
+  - A clear description of the issue
+  - Steps to reproduce
+  - Impact assessment (if known)
+  - Suggested fix (optional but appreciated)
+
+---
+
+2. Disclosure Policy
+--------------------
+We follow a 90-day coordinated disclosure timeline:
+  - Day 0: Report received and acknowledged
+  - Day 1–30: Fix developed and tested
+  - Day 31–60: Patch prepared for release (including downstream coordination)
+  - Day 61–90: Public disclosure and CVE assignment (if applicable)
+
+If the vulnerability is being actively exploited in the wild, we may shorten this window.
+
+We will credit all reporters in the release notes (unless you request anonymity).
+
+---
+
+3. Supported Versions
+---------------------
+Only the latest minor version of each major release line receives security updates.
+
+Unsupported versions will not receive patches. Please upgrade to a supported version.
+
+---
+
+4. Security Headers & Best Practices
+------------------------------------
+This project does not enforce runtime security policies (e.g., CSP, HSTS) — 
+those are the responsibility of the deployment environment.
+
+Developers are encouraged to:
+  - Keep dependencies updated (use `dependabot` or similar)
+  - Scan for vulnerabilities with tools like `trivy`, `snyk`, or `osv-scanner`
+  - Follow OWASP Top 10 guidelines when integrating this software
+
+---
+
+5. Legal Notice
+---------------
+Reporting a vulnerability does not grant you permission to:
+  - Publicly disclose before coordination
+  - Exploit the vulnerability beyond proof-of-concept (no data exfiltration, DoS, etc.)
+  - Demand compensation (we are an open source project)
+
+Misuse of reported vulnerabilities may violate the LEGAL terms and applicable laws.
+
+See: LEGAL for lawful use and liability disclaimer.
+
+Thank you for helping make this project more secure.
