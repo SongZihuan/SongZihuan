@@ -105,7 +105,7 @@ class="underline"
 
 📫备份邮箱：[songzh0630@188.com](mailto://songzh0630@188.com)
 
-📫国际邮箱：[song-zihuan@outlook.com](mailto://song-zihuan@outlook.com)
+📫国际邮箱：[songzh0630@outlook.com](mailto://songzh0630@outlook.com)
 
 📫身份邮箱：[songzihuan@song-zh.com](mailto://songzihuan@song-zh.com)
 
