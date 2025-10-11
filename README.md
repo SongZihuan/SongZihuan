@@ -170,6 +170,9 @@ class="underline"
             通过微信关注 <a id="dingyuehao" href="https://mp.weixin.qq.com/s/e2RNDW7T9WFdIohrQlTYow" target="_blank">写代码的小桓Huan</a> 为我赞助。
         </li>
         <li>
+            通过 <a href="https://ur.alipay.com/_zpauTdqglWQJLonHlgvzR" target="_blank">支付宝</a> 为我赞助。
+        </li>
+        <li>
             通过 <a href="https://afdian.com/a/songzihuan0630" target="_blank">爱发电</a> 为我赞助。
         </li>
          <li>
