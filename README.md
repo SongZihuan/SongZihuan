@@ -1,7 +1,13 @@
 ## <div align="center">写代码的小桓Huan🔥</div>  
 
 <div align="center">
-🧑‍💻 宋子桓 (Song Zihuan)
+🧑‍💻 宋子桓 - 桓枢 Huxom
+</div>
+
+<br>
+
+<div align="center">
+🤵‍♂️ SONG ZIHUAN
 </div>
 
 <br>
