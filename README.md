@@ -25,26 +25,8 @@
 <br>
 
 <div align="center">
-<a
-id="cy-effective-orcid-url"
-class="underline"
-    href="https://orcid.org/0009-0008-5167-1636"
-    target="orcid.widget"
-    rel="me noopener noreferrer"
-    style="vertical-align: top">
-    <img
-    src="https://orcid.org/sites/default/files/images/orcid_16x16.png"
-    style="width: 1em; margin-inline-start: 0.5em"
-    alt="ORCID iD icon"/>
-    https://orcid.org/0009-0008-5167-1636
-</a>
+<img src="https://komarev.com/ghpvc/?username=songzihuan&base=0&abbreviated=true&label=PROFILE+VIEWS+%20&color=blueviolet" align="center" alt="PROFILE VIEWS" />
 </div>
-
-<br>
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=songzihuan&base=0&abbreviated=true&label=PROFILE+VIEWS+%20&color=blueviolet" align="center" />
-</div>  
 
 <br>
 
@@ -92,26 +74,11 @@ class="underline"
 
 我行故我在；我想、我能、我做。
 
-<br>
-
-<div align="center">
-—
-</div>
-
-<br>
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SongZihuan&hide_border=true&layout=compact" align="center" />
-</div>  
-
-
 ### <div align="center">联系</div> 
 
 📫主邮箱：[work@song-zh.com](mailto://work@song-zh.com)
 
-📫备份邮箱：[songzh0630@188.com](mailto://songzh0630@188.com)
-
-📫国际邮箱：[songzh0630@outlook.com](mailto://songzh0630@outlook.com)
+📫备份邮箱：[songzh0630@outlook.com](mailto://songzh0630@outlook.com)
 
 📫身份邮箱：[songzihuan@song-zh.com](mailto://songzihuan@song-zh.com)
 
@@ -120,13 +87,10 @@ class="underline"
 ❗提示
 
 - 请优先使用主邮箱与我取得联系。
-- 当无法送达信件至主邮箱时，若您在中国大陆境内请尝试备份邮箱。
-- 当无法送达信件至主邮箱时，若您在中国大陆境外请尝试国际邮箱。
-- 当无法送达信件至主邮箱和备份邮箱时，请尝试国际邮箱。
-- 当无法送达信件至主邮箱、备份邮箱和国际邮箱时，请耐心等待通信状态恢复。
+- 当无法送达信件至主邮箱时，请尝试备份邮箱。
+- 当无法送达信件至主邮箱和备份邮箱时，请耐心等待通信状态恢复。
 - 身份邮箱不接收通信信件，只用于代码推送等用途。
 - 更多社交账号，可通过微信订阅号获取。
-  
 
 ### <div align="center">许可</div>  
 
@@ -174,9 +138,6 @@ class="underline"
     <ul>
         <li>
             通过微信关注 <a id="dingyuehao" href="https://mp.weixin.qq.com/s/e2RNDW7T9WFdIohrQlTYow" target="_blank">写代码的小桓Huan</a> 为我赞助。
-        </li>
-        <li>
-            通过 <a href="https://ur.alipay.com/_zpauTdqglWQJLonHlgvzR" target="_blank">支付宝</a> 为我赞助。
         </li>
         <li>
             通过 <a href="https://afdian.com/a/songzihuan0630" target="_blank">爱发电</a> 为我赞助。
