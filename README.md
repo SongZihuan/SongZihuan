@@ -122,11 +122,15 @@
 
 ### <div align="center">联系</div> 
 
+<div align="center">
+
 📫 主邮箱：[work@song-zh.com](mailto:work@song-zh.com)
 
 🌐 联系我们：[song-zh.com/contact](https://song-zh.com/contact)
 
 📱 微信订阅号：<a href="https://mp.weixin.qq.com/s/e2RNDW7T9WFdIohrQlTYow" target="_blank">写代码的小桓Huan</a>
+
+</div>
 
 ### <div align="center">许可</div>  
 
