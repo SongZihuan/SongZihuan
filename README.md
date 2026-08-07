@@ -1,13 +1,13 @@
-## <div align="center">写代码的小桓Huan🔥</div>  
+## <div align="center">宋子桓 🔥</div>  
 
 <div align="center">
-🧑‍💻 宋子桓 - 桓枢 Huxom
+🧑‍💻 桓枢 Huxom
 </div>
 
 <br>
 
 <div align="center">
-🤵‍♂️ SONG ZIHUAN
+🤵‍♂️ Zihuan Song
 </div>
 
 <br>
@@ -20,6 +20,12 @@
 
 <div align="center">
 研究方向：系统编程、计算思维、开源哲学
+</div>
+
+<br>
+
+<div align="center">
+🌐 个人官网与博客：<a href="https://song-zh.com" target="_blank">song-zh.com</a>
 </div>
 
 <br>
@@ -38,7 +44,11 @@
 
 📌 职业概述
 
-我是一名独立研究员兼开源软件工程师，致力于探索系统实现与计算思维的交汇。我的工作不仅强调代码的“如何实现”，更关注设计决策背后的“为什么”，将实际工程与概念深度联系起来。
+我是一名独立研究员兼开源软件工程师，2004 年生于广州，十余年开发经验。我热衷底层：从编译器、系统工具到操作系统内核设计，也熟悉后端开发、Linux 运维与云基础设施。
+
+我的工作不仅强调代码的“如何实现”，更关注设计决策背后的“为什么”，将实际工程与概念深度联系起来。我能把一个创新的概念落地为可运行的 MVP——性能优化不是我的长项，但我相信，清晰的结构才是后续优化的最佳起点。我非常重视代码的可预测性、可理解性、可维护性和可欣赏性。
+
+欢迎访问我的博客，了解更多 <a href="https://song-zh.com/profile" target="_blank">song-zh.com/profile</a>。
 
 <br>
 
@@ -66,6 +76,42 @@
 
 <br>
 
+🛠 技术与工程能力
+
+系统底层：操作系统内核、程序编译器、解释器与运行时工具包（C / CMake）。
+
+后端开发：Python / Golang、RESTful / RPC API、数据库设计。
+
+云基础设施：Linux 运维、云服务部署和对接。
+
+前端开发：Vue / Nuxt、原生网页开发（HTML + CSS + JS）。
+
+<br>
+
+<div align="center">
+—
+</div>
+
+<br>
+
+🚀 代表项目
+
+- [GWARF](https://github.com/SongZihuan/GWARF)：使用 C 语言实现的动态类型解释型语言，语法简洁，类似 Python。
+- [CoTan](https://github.com/SongZihuan/CoTan)：基于 Python 的智能科学计算笔记系统，覆盖数据处理、数学运算与物理分析等场景。
+- [BrainFuck Pro](https://github.com/SongZihuan/BrainFuckPro)：使用 C 语言开发的 BrainFuck 解释器，并扩展了部分语法。
+- [CFEP](https://github.com/SongZihuan/CFEP)（CMakeFindExternalProject）：CMake 依赖管理工具，允许在配置期（而非构建期）安装第三方依赖库。
+- [ssh-watcher](https://github.com/SongZihuan/ssh-watcher)：SSH 请求监控守护工具，支持按 IP 设置放行规则，并可推送 SMTP 与企业微信告警。
+
+更多作品，欢迎访问我的博客 <a href="https://song-zh.com/projects" target="_blank">song-zh.com/projects</a>。
+
+<br>
+
+<div align="center">
+—
+</div>
+
+<br>
+
 💬 理念
 
 “代码不仅仅是指令——它是凝固的思想。我的使命是解冻它，审视它的结构，并分享它为何如此结晶。”
@@ -76,76 +122,48 @@
 
 ### <div align="center">联系</div> 
 
-📫主邮箱：[work@song-zh.com](mailto://work@song-zh.com)
+📫 主邮箱：[work@song-zh.com](mailto:work@song-zh.com)
 
-📫备份邮箱：[songzh0630@outlook.com](mailto://songzh0630@outlook.com)
+🌐 联系我们：[song-zh.com/contact](https://song-zh.com/contact)
 
-📫身份邮箱：[songzihuan@song-zh.com](mailto://songzihuan@song-zh.com)
-
-📱微信订阅号：<a id="dingyuehao" href="https://mp.weixin.qq.com/s/e2RNDW7T9WFdIohrQlTYow" target="_blank">写代码的小桓Huan</a>
-
-❗提示
-
-- 请优先使用主邮箱与我取得联系。
-- 当无法送达信件至主邮箱时，请尝试备份邮箱。
-- 当无法送达信件至主邮箱和备份邮箱时，请耐心等待通信状态恢复。
-- 身份邮箱不接收通信信件，只用于代码推送等用途。
-- 更多社交账号，可通过微信订阅号获取。
+📱 微信订阅号：<a href="https://mp.weixin.qq.com/s/e2RNDW7T9WFdIohrQlTYow" target="_blank">写代码的小桓Huan</a>
 
 ### <div align="center">许可</div>  
 
 <div align="center">
-🫱🏻‍🫲🏻 宋子桓的公开项目在默认情况下使用 <a href="./LICENSE" target="_blank"> MIT LICENSE </a> 开源许可证发布，除非项目根目录下 <code>LICENSE</code> 文件另行决定。
+🫱🏻‍🫲🏻 我们的公开项目在默认情况下使用 <a href="https://song-zh.com/opensource/mit-license" target="_blank"> MIT LICENSE </a> 开源许可证发布。
 </div> 
 
-<div align="center">
-🌐 更多关于 MIT LICENSE 的信息可从 <a href="https://mit-license.org" target="_blank"> mit-license.org </a> 了解。
-</div> 
-
-### <div align="center">法律</div> 
+<br>
 
 <div align="center">
-⚖️ 宋子桓的公开项目在默认情况下需遵守 <a href="./LEGAL" target="_blank"> 法律约束 </a> ，除非项目根目录下 <code>LEGAL</code> 或 <code>LEGAL.md</code> 文件另行决定。
+🌐 更多开源理念与协作约定，可参考博客上的 <a href="https://song-zh.com/opensource" target="_blank"> 开源策略 </a> 页面。
 </div> 
 
 ### <div align="center">安全</div> 
 
 <div align="center">
-⛑️ 宋子桓的公开项目安全策略可参考 <a href="./SECURITY" target="_blank"> 安全文件 </a> ，除非项目根目录下 <code>SECURITY</code> 或 <code>SECURITY.md</code> 文件另行决定。
+⛑️ 我们的安全策略可参考博客上的 <a href="https://song-zh.com/opensource/security-policy" target="_blank"> 安全策略 </a> 。
 </div> 
 
-### <div align="center">贡献者约定</div> 
+### <div align="center">行为准则</div> 
 
 <div align="center">
-⛽ 宋子桓的公开项目贡献者均需遵守 <a href="./CODE_OF_CONDUCT" target="_blank"> 贡献者约定 </a> ，除非项目根目录下 <code>CODE_OF_CONDUCT</code> 或 <code>CODE_OF_CONDUCT.md</code> 文件另行决定。
+⛽ 我们的行为准则可参考博客上的 <a href="https://song-zh.com/opensource/code-of-conduct" target="_blank"> 行为准则 </a> 。
 </div> 
 
 ### <div align="center">致谢</div>  
 
 <div align="center">
-🫶🏻 我由衷的感谢所有对我们的项目付出贡献人和团体，谢谢你们的支持！
+🫶🏻 我由衷的感谢所有对我们的项目付出贡献的人和团体，谢谢你们的支持！
 </div>  
 
 ### <div align="center">赞助</div> 
 
 <div align="center">
 ⛽ 你的支持，是我持续探索“从代码到思想”的小小燃料。
-</div>
 
-<br>
-
-<div align="center">
-    <ul>
-        <li>
-            通过微信关注 <a id="dingyuehao" href="https://mp.weixin.qq.com/s/e2RNDW7T9WFdIohrQlTYow" target="_blank">写代码的小桓Huan</a> 为我赞助。
-        </li>
-        <li>
-            通过 <a href="https://afdian.com/a/songzihuan0630" target="_blank">爱发电</a> 为我赞助。
-        </li>
-         <li>
-            通过<a id="dingyuehao" href="https://ko-fi.com/songzihuan" target="_blank"> Ko-fi </a> 为我赞助。
-        </li>
-    </ul>
+可通过微信 <a href="https://song-zh.com/opensource/donate" target="_blank">赞赏码</a> 为我赞助。
 </div>
 
 <br>
