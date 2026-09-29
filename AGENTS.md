@@ -12,26 +12,25 @@
 
 - 无编程语言、无框架、无第三方依赖。
 - 不存在 `pyproject.toml`、`package.json`、`Cargo.toml`、`Makefile`、`Dockerfile`、CI 工作流等任何构建或工程配置文件。如果将来出现此类文件，请更新本文件。
-- 唯一的“运行时”是 GitHub 对 `README.md` 的 Markdown/HTML 渲染。`README.md` 中使用了居中对齐的 `<div>`、`<br>`、`<img>` 等内联 HTML，以及一个外部访问量统计图片（`komarev.com/ghpvc`）。
+- 唯一的“运行时”是 GitHub 对 `README.md` 的 Markdown 渲染。内容使用左对齐标题、段落、列表和链接，不依赖内联 HTML、外部统计图片或自动生成卡片。
 
 ## 仓库结构
 
 | 文件 | 语言 | 作用 |
 | --- | --- | --- |
-| `README.md` | 中文为主 | GitHub 个人主页内容：职业概述、研究与工程兴趣、技术能力、代表项目、理念、联系方式、许可/安全/行为准则入口、赞助方式（USDT 赞助一节为英文，面向海外） |
+| `README.md` | 中文为主 | GitHub 个人主页内容：简短技术定位、编程语言与解释器路线、工程工具与基础设施、源码阅读入口、早期探索与归档状态、联系方式和开源约定 |
 | `LICENSE` | 英文 | MIT License，Copyright (c) 2026 SONG ZIHUAN |
 | `.gitignore` | — | Git 忽略规则 |
 
-治理性文档（许可证介绍、安全策略、行为准则、法律相关声明、打赏方式）**均已迁移至作者个人博客**，仓库内不再保留对应文件。README 中的相关小节直接链接到博客页面：
+个人介绍、经历与文章由个人官网承担；本仓库聚焦代码项目、具体机制与源码阅读入口。
+
+治理性文档（许可证介绍、安全策略、行为准则、法律相关声明）由个人官网承担，仓库内不再保留对应文件。README 页尾集中链接到官网：
 
 - 开源策略总页：`https://song-zh.com/opensource`
-- MIT 许可证介绍：`https://song-zh.com/opensource/mit-license`
 - 安全策略：`https://song-zh.com/opensource/security-policy`
 - 行为准则：`https://song-zh.com/opensource/code-of-conduct`
-- 打赏：`https://song-zh.com/opensource/donate`
 - 联系页：`https://song-zh.com/contact`
-- 个人介绍：`https://song-zh.com/profile`
-- 主要作品：`https://song-zh.com/projects`
+- 个人官网与博客：`https://song-zh.com`
 
 无子目录、无测试、无脚本。
 
