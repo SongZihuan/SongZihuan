@@ -45,5 +45,5 @@
 
 ## 联系作者
 
-- 主邮箱：`work@song-zh.com`
+- 主邮箱：`songzh0630@gmail.com`
 - 联系页：`https://song-zh.com/contact`
