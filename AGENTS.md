@@ -12,7 +12,7 @@
 
 - 无编程语言、无框架、无第三方依赖。
 - 不存在 `pyproject.toml`、`package.json`、`Cargo.toml`、`Makefile`、`Dockerfile`、CI 工作流等任何构建或工程配置文件。如果将来出现此类文件，请更新本文件。
-- 唯一的“运行时”是 GitHub 对 `README.md` 的 Markdown 渲染。内容使用左对齐标题、段落、列表和链接，不依赖内联 HTML、外部统计图片或自动生成卡片。
+- 唯一的“运行时”是 GitHub 对 `README.md` 的 Markdown 渲染。README 使用内联 HTML `<picture>`，按 `prefers-color-scheme` 在深色与浅色之间切换两张静态 SVG 卡片（`dark_mode.svg`、`light_mode.svg`）。卡片是放在仓库根目录的静态文件，不引用外部统计图片，也不在本仓库内生成。卡片下方是一段中文简介和官网链接。
 
 ## 联系作者
 
